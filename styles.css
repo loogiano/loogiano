@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+       <title>my page</title>
+       <style>
+        body{
+            background: rgb(36, 36, 36)
+        }
+        h1 {
+            color: red;
+        }
+        h2 {
+            color: rgb(30, 33, 221);
+        }
+       </style>
+    </head>
+    <body>
+        <h1>the chronicles of the blade</h1>
+        <h2>the daywalker</h2>
+      <p>seek power till ye perish, or <em>perish</em> at the clutches of death</p>
+      <button>click link to acquire knowledge</button>
+    </body>
+
+</html>
